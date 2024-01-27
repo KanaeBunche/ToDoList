@@ -1,4 +1,4 @@
-[URL=/gif/screen-recording-2024-01-27-at-51939-pm-4NWxtW][IMG]https://i.makeagif.com/media/1-27-2024/4NWxtW.gif[/IMG][/URL]
+<a href="/gif/screen-recording-2024-01-27-at-51939-pm-4NWxtW" title="Screen Recording 2024-01-27 at 5.19.39 PM"><img src="https://i.makeagif.com/media/1-27-2024/4NWxtW.gif" alt="Screen Recording 2024-01-27 at 5.19.39 PM"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
 ---
 
 # To-Do List Application
