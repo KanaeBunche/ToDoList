@@ -32,7 +32,7 @@ function addItem() {
         let deleteButton = document.createElement("button");
         deleteButton.textContent = "Delete";
         deleteButton.className ='deleteButton';
-        deleteButton.addEventListener('click', function() {
+        deleteButton.addEventListener('click', function(e) {
             newItem.remove();
         });
         newItem.appendChild(deleteButton);
