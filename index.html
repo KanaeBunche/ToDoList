@@ -19,7 +19,13 @@
     <div class="form">
         
             <input type="text"  class="task-input" id="itemInput" placeholder="Enter task">
+            <input  type="date" class="date" id=itemdueDate>
+
     <button class="add-task-button" onclick="addItem()">Add Task</button> 
+</div>
+<div>
+    <input type="checkbox" id="filterCompleted" onchange="filterItems()">
+    <label for="filterCompleted">Show Completed Tasks Only</label>
 </div>
     <ul id="itemList">
         <!-- List of added items will be displayed here -->
